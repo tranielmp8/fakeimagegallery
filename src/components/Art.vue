@@ -21,7 +21,7 @@ import { ref } from 'vue'
           "description": "just something to talk about. cool stuff",
           "printPrice": "$500.00",
           "uniquePrice": "$1250.00",
-          "img": '/src/assets/images/demon_slayer.jpg'
+          "img": '//images/demon_slayer.jpg'
         },
         {
           "id": 2,
@@ -29,7 +29,7 @@ import { ref } from 'vue'
           "description": "just something to talk about. cool stuff",
           "printPrice": "$500.00",
           "uniquePrice": "$1250.00",
-          "img": '/src/assets/images/luffy.jpg'
+          "img": '/images/luffy.jpg'
         },
         {
           "id": 3,
@@ -37,7 +37,7 @@ import { ref } from 'vue'
           "description": "just something to talk about. cool stuff",
           "printPrice": "$500.00",
           "uniquePrice": "$1250.00",
-          "img": 'src/assets/images/bleach.jpg'
+          "img": '/images/bleach.jpg'
         },
         {
           "id": 4,
@@ -45,7 +45,7 @@ import { ref } from 'vue'
           "description": "just something to talk about. cool stuff",
           "printPrice": "$500.00",
           "uniquePrice": "$1250.00",
-          "img": './public/naruto.jpg'
+          "img": '/images/naruto.jpg'
         },
       ])
 
