@@ -21,7 +21,7 @@ import { ref } from 'vue'
           "description": "just something to talk about. cool stuff",
           "printPrice": "$500.00",
           "uniquePrice": "$1250.00",
-          "img": '//images/demon_slayer.jpg'
+          "img": '/images/demon_slayer.jpg'
         },
         {
           "id": 2,
